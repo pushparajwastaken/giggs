@@ -6,7 +6,7 @@
 // console.log(asciiString);
 // function asciiToBytes(asciiString) {
 //   const byteArray = [];
-//   for (let i = 0; i < asciiString.length; i++) {
+//   for (let i = 0; i < asciiString.length; i++) {+
 //     byteArray.push(asciiString.charCodeAt(i));
 //   }
 //   return byteArray;
